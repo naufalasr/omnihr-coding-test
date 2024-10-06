@@ -92,3 +92,5 @@ curl --location 'http://localhost:8001/api/v1/employees?department=Engineering&p
 - [x] Implemented all filter options
 
 ## Test Result
+<img width="907" alt="Screenshot 2024-10-06 at 14 28 01" src="https://github.com/user-attachments/assets/82e14419-b79d-4737-962a-9f4aeaef05e6">
+<img width="900" alt="Screenshot 2024-10-06 at 14 28 28" src="https://github.com/user-attachments/assets/bef6281b-88a7-40b6-9ab6-abfbc613a570">
