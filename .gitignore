@@ -1,0 +1,6 @@
+vendor
+bin
+.dbdata
+dbdata
+.DS_Store
+.exe
